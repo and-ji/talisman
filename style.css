@@ -1,0 +1,47 @@
+
+html {
+    font-size: 16px;
+    font-variant-ligatures: normal;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: geometricPrecision;
+}
+
+body {
+    margin: 0 auto;
+    width: 90%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: 400;
+    text-transform: uppercase;  
+}
+
+h1 {
+    font-size: 17.942rem;
+}
+
+h2 {
+    font-size: 11.089rem;
+}
+
+h3 {
+    font-size: 6.854rem;
+}
+
+h4 {
+    font-size: 4.236rem;
+}
+
+h5 {
+    font-size: 2.618rem;
+}
+
+h6 {
+    font-size: 1.618rem;
+}
+
+p {
+    font-size: 1rem;
+}
